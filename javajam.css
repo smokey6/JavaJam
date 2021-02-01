@@ -1,0 +1,35 @@
+body { 
+	background-color: #FFFFCC; 
+	color: #330000; 
+	font-family: sans-serif; 
+	margin-left: auto; 
+	margin-right: auto; 
+	width:40%;
+}
+
+h1 {
+	color:#000000;
+	background: #CCAA66; 
+	line-height: 200%;
+	text-align: center;
+}
+
+nav {
+	color:#000000; 
+	text-align: center;
+}
+
+main {
+	color:#000000; 
+
+}
+
+
+footer {
+	background-color: #ccaa66;
+	color: #000000;
+	font-size: .60em;
+	font-style: italic;
+	text-align: center;
+
+}
